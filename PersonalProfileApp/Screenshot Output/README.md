@@ -1,9 +1,9 @@
 ## Application Output Screenshots
 
-### 1. Registration Form (Default State)
+### 1. Student Profile Form
 ![Blank Form](form_blank.png)
 
-### 2. Registration Form (Filled Input)
+### 2. Student Profile Form (Filled Input)
 ![Filled Form](form_filled.png)
 
 ### 3. Profile Page Output (Submitted Data)
