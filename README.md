@@ -25,11 +25,11 @@ Before running this project, ensure you have the following installed and configu
 
 ## Application Output Screenshots
 
-### 1. Student Profile Form 
-![Blank Form](PersonalProfileApp/Screenshot%20Output/form_blank.png)
+### 1. Student Profile Form
+![Blank Form](form_blank.png)
 
-### 2. Student Profile Form 
-![Filled Form](PersonalProfileApp/Screenshot%20Output/form_filled.png)
+### 2. Student Profile Form (Filled Input)
+![Filled Form](form_filled.png)
 
 ### 3. Displayed Student Profile Form
-![Profile Output](PersonalProfileApp/Screenshot%20Output/profile_output.png)
+![Profile Output](profile_output.png)
