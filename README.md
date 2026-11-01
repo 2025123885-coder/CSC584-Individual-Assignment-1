@@ -10,7 +10,7 @@ This is a simple **Personal Profile Web Application** developed for CSC584 Indiv
 * **IDE:** NetBeans IDE 8.2
 * **Web/Application Server:** GlassFish Server 4.1.1
 
-## Prerequisites & Required Software
+##  Required Software/Server
 Before running this project, ensure you have the following installed and configured:
 1. **JDK 8 (Java SE Development Kit 8)**
 2. **NetBeans IDE 8.2** (with Java EE support enabled)
