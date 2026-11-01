@@ -28,7 +28,7 @@ Before running this project, ensure you have the following installed and configu
 ### 1. Student Profile Form 
 ![Blank Form](PersonalProfileApp/Screenshot%20Output/form_blank.png)
 
-### 2. Student Profile Form 
+### 2. Student Profile Form (Filled Input) 
 ![Filled Form](PersonalProfileApp/Screenshot%20Output/form_filled.png)
 
 ### 3. Displayed Student Profile Form
