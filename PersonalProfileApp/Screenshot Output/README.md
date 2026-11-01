@@ -6,5 +6,5 @@
 ### 2. Student Profile Form (Filled Input)
 ![Filled Form](form_filled.png)
 
-### 3. Profile Page Output (Submitted Data)
+### 3. Displayed Student Profile Form
 ![Profile Output](profile_output.png)
